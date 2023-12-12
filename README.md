@@ -13,4 +13,7 @@ I hope to combine my design skills with everything that **Coding Bootcamp Europe
 Despite the fact, that I am quite fascinated by the backend, my skills seem to match better with the frontend. 
 
 
+https://www.codewars.com/users/jennywhitmore/badges/small
+
+
 [![Jennys github stats](https://github-readme-stats.vercel.app/api?username=jennywhitmore)](https://github.com/anuraghazra/github-readme-stats)
