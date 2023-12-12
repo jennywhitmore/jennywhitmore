@@ -15,3 +15,4 @@ Despite the fact, that I am quite fascinated by the backend, my skills seem to m
 
 
 [![Jennys github stats](https://github-readme-stats.vercel.app/api?username=jennywhitmore)](https://github.com/anuraghazra/github-readme-stats)
+![Codewars](https://github.r2v.ch/codewars?user=jennywhitmore&stroke=COLOR)
